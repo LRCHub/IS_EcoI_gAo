@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "LAST TRAIN -新しい朝-",
+  "base_artist": "knotlamp",
+  "createdAt": "2026-03-26T16:19:34.141418Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last Train",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/01_Last_Train_Travis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Last Train",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/02_Last_Train_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Last Train to London",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/03_Last_Train_to_London_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "13. Last Train To London",
+      "artist": "Electric Light Orchestra",
+      "has_synced": true,
+      "path": "select/04_13._Last_Train_To_London_Electric_Light_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Train to Trancentral",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/05_Last_Train_to_Trancentral_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Train to Trancentral (120 Rock Steady)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/06_Last_Train_to_Trancentral_(120_Rock_Steady)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Train to Trancentral (1989 Pure Trance Original)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/07_Last_Train_to_Trancentral_(1989_Pure_Trance_Original)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Train to Trancentral (LP mix)",
+      "artist": "The KLF",
+      "has_synced": true,
+      "path": "select/08_Last_Train_to_Trancentral_(LP_mix)_The_KLF.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Train to Trancentral (live From the Lost Continent/7\" radio edit)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/09_Last_Train_to_Trancentral_(live_From_the_Lost_Continent_7__radio_edit)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Train To Trancentral (Live From The Lost Continent\u00007' Radio Edit)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/10_Last_Train_To_Trancentral_(Live_From_The_Lost_Continent\u00007'_Radio_Edit)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Train to Transcentral (Live from the Lost Continent)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/11_Last_Train_to_Transcentral_(Live_from_the_Lost_Continent)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Train to Trancentral (Mu D. Vari Speed version)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/12_Last_Train_to_Trancentral_(Mu_D._Vari_Speed_version)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Train to Trancentral (Razormaid! Mix)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/13_Last_Train_to_Trancentral_(Razormaid!_Mix)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Train to Trancentral (The 1989 Pure Trance original)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/14_Last_Train_to_Trancentral_(The_1989_Pure_Trance_original)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Train to Trancentral (The Iron Horse/12\" version)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/15_Last_Train_to_Trancentral_(The_Iron_Horse_12__version)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Last Train To Trancentral (The Iron Horse\u000012' Version)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/16_Last_Train_To_Trancentral_(The_Iron_Horse\u000012'_Version)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Last Night Lonely",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/17_Last_Night_Lonely_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Last Ones Up",
+      "artist": "Nicole Rayy",
+      "has_synced": true,
+      "path": "select/18_Last_Ones_Up_Nicole_Rayy.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Like It's The Last Time",
+      "artist": "Thomas Rhett",
+      "has_synced": false,
+      "path": "select/19_Like_It's_The_Last_Time_Thomas_Rhett.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sam Cherry's Last Shot",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/20_Sam_Cherry's_Last_Shot_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Sam Cherry's Last Shot",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/21_Sam_Cherry's_Last_Shot_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "The Last Oasis",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/22_The_Last_Oasis_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "The Last Oasis",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/23_The_Last_Oasis_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Last Year",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/24_Last_Year_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Last Year",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/25_Last_Year_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "(Lost Her Love) On Our Last Date",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/26_(Lost_Her_Love)_On_Our_Last_Date_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Atlanta Burned Again Last Night",
+      "artist": "Atlanta",
+      "has_synced": false,
+      "path": "select/27_Atlanta_Burned_Again_Last_Night_Atlanta.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Built to Last",
+      "artist": "American Aquarium",
+      "has_synced": true,
+      "path": "select/28_Built_to_Last_American_Aquarium.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Down to My Last Lie",
+      "artist": "Joshua Hedley",
+      "has_synced": false,
+      "path": "select/29_Down_to_My_Last_Lie_Joshua_Hedley.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Down To My Last Teardrop",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/30_Down_To_My_Last_Teardrop_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LAST TRAIN -新しい朝-",
+      "artist": "knotlamp",
+      "has_synced": false,
+      "path": "select/pl_01_LAST_TRAIN_-新しい朝-_knotlamp.txt"
+    }
+  ]
+}
